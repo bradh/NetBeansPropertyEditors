@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>org.netbeans.modules.apisupport.project</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/nb-module-project/3">
+            <code-name-base>org.github.lgooddatepicker</code-name-base>
+            <suite-component/>
+            <module-dependencies/>
+            <public-packages>
+                <package>com.github.lgooddatepicker.components</package>
+                <package>com.github.lgooddatepicker.demo</package>
+                <package>com.github.lgooddatepicker.durationpicker_underconstruction</package>
+                <package>com.github.lgooddatepicker.optionalusertools</package>
+                <package>com.github.lgooddatepicker.tableeditors</package>
+                <package>com.github.lgooddatepicker.ysandbox</package>
+                <package>com.github.lgooddatepicker.zinternaltools</package>
+                <package>com.privatejgoodies.common.base</package>
+                <package>com.privatejgoodies.common.bean</package>
+                <package>com.privatejgoodies.common.internal</package>
+                <package>com.privatejgoodies.forms.factories</package>
+                <package>com.privatejgoodies.forms.layout</package>
+                <package>com.privatejgoodies.forms.util</package>
+            </public-packages>
+            <class-path-extension>
+                <runtime-relative-path>ext/LGoodDatePicker-11.1.0.jar</runtime-relative-path>
+                <binary-origin>release/modules/ext/LGoodDatePicker-11.1.0.jar</binary-origin>
+            </class-path-extension>
+        </data>
+    </configuration>
+</project>
